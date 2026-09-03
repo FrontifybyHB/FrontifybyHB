@@ -51,15 +51,15 @@ AI-powered tech news platform aggregating web dev news with Groq-generated summa
 
 ### 🎫 SupportFlow AI
 Multi-tenant AI customer support platform — auto-reply, human handoff, real-time tickets via Socket.io, OpenAI + Gemini.
-[🔗 Live](https://supportflowai.vercel.app) · 💻 Source *(add repo link)*
+[🔗 Live](https://supportflowai.vercel.app) · 💻 Source *(https://github.com/FrontifybyHB/supportflow-server.git)*
 
 ### ⚙️ Backend Starter
 Open-source production-ready Node.js/Express template — MVC architecture, JWT auth, RBAC, CI/CD, ESLint.
-[🔗 Live](https://backend-starter-hb.netlify.app/) · 💻 Source *(add repo link)*
+[🔗 Live](https://backend-starter-hb.netlify.app/) · 💻 Source *(https://github.com/FrontifybyHB/backend-starter.git)*
 
 ### 🤖 KODR AI
 Explains source code line-by-line to help developers understand unfamiliar codebases.
-💻 Source *(add repo link)*
+💻 Source *(https://github.com/FrontifybyHB/Kodr.git)*
 
 ---
 
